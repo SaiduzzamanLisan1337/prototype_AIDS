@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Models
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# Dataset
+MachineLearningCSV/
+anomaly_ids/MachineLearningCSV/
+
+# Outputs
+outputs/
+anomaly_ids/outputs/
+
+# Logs
+*.log
